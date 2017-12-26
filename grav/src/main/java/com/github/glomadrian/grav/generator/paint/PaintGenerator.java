@@ -6,6 +6,7 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 
 public interface PaintGenerator {
-  Paint generate();
-  void configure(AttributeSet attributeSet, Context context);
+    Paint generate();
+
+    void configure(AttributeSet attributeSet, Context context);
 }

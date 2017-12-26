@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="1062.9921dp"
-        android:height="1052.3622dp"
-        android:viewportWidth="1062.9921"
-        android:viewportHeight="1052.3622">
+    android:width="1062.9921dp"
+    android:height="1052.3622dp"
+    android:viewportHeight="1052.3622"
+    android:viewportWidth="1062.9921">
 
-  <path
-      android:name="path4147"
-      android:fillColor="#fd3939"
-      android:strokeWidth="1"
-      android:pathData="M993.453,403.916 Q1002.92,412.333,1007.13,423.904
+    <path
+        android:name="path4147"
+        android:fillColor="#fd3939"
+        android:pathData="M993.453,403.916 Q1002.92,412.333,1007.13,423.904
 Q1011.33,433.373,1010.28,448.099 Q1009.23,462.826,996.608,481.762
 Q986.088,499.648,963.996,521.739 Q958.738,526.997,954.527,532.259
 Q951.373,536.466,946.111,540.676 Q929.277,557.51,916.654,569.081
@@ -137,5 +136,6 @@ Q316.24,518.596,323.601,525.961 Q325.705,527.012,329.915,534.378
 Q334.121,541.743,336.228,552.263 Q338.332,562.783,336.228,573.303
 Q334.125,583.823,324.657,591.188 Q274.164,649.046,235.239,677.451
 Q197.369,705.856,168.964,716.376 Q141.614,726.896,124.78,724.793
-Q109.002,722.69,103.741,720.586 Z" />
+Q109.002,722.69,103.741,720.586 Z"
+        android:strokeWidth="1" />
 </vector>

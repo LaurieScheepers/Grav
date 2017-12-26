@@ -1,6 +1,6 @@
 <resources>
-  <string name="app_name">Gravball</string>
-  <string name="wallapop">M874.323897,513.518484 C860.358769,445.332884 816.382769,412.921263
+    <string name="app_name">Gravball</string>
+    <string name="wallapop">M874.323897,513.518484 C860.358769,445.332884 816.382769,412.921263
     805.267282,406.191832 C800.657846,403.400084 797.676103,399.358653 797.88841,392.435874
     C801.757128,267.085474 710.243077,158.867537 582.509333,159.174063 C500.917128,159.372126
     449.925538,194.844295 407.832,243.511242 C403.062154,249.028716 394.697231,248.443958
@@ -35,10 +35,10 @@
     818.708718,521.238484 819.793846,539.955453 C823.549333,604.698526 772.458667,660.344842
     707.700103,664.112758 C692.470564,664.706947 684.119795,673.341558 684.063179,687.984084 Z
   </string>
-  <integer name="wallapop_original_width">1024</integer>
-  <integer name="wallapop_original_height">1024</integer>
+    <integer name="wallapop_original_width">1024</integer>
+    <integer name="wallapop_original_height">1024</integer>
 
-  <string name="grav">
+    <string name="grav">
     M993.453,403.916 Q1002.92,412.333,1007.13,423.904
 Q1011.33,433.373,1010.28,448.099 Q1009.23,462.826,996.608,481.762
 Q986.088,499.648,963.996,521.739 Q958.738,526.997,954.527,532.259
@@ -169,15 +169,15 @@ Q334.125,583.823,324.657,591.188 Q274.164,649.046,235.239,677.451
 Q197.369,705.856,168.964,716.376 Q141.614,726.896,124.78,724.793
 Q109.002,722.69,103.741,720.586 Z
   </string>
-  <integer name="grav_original_width">1062</integer>
-  <integer name="grav_original_height">1062</integer>
+    <integer name="grav_original_width">1062</integer>
+    <integer name="grav_original_height">1062</integer>
 
-  <string name="circle">
+    <string name="circle">
 M527.023,71.8233 C780.213,71.8233,985.464,277.075,985.464,530.265
 C985.464,783.455,780.213,988.707,527.023,988.707
 C273.832,988.707,68.5809,783.455,68.5809,530.265
 C68.5809,277.075,273.832,71.8233,527.023,71.8233 Z
   </string>
-  <integer name="circle_original_width">1062</integer>
-  <integer name="circle_original_height">1062</integer>
+    <integer name="circle_original_width">1062</integer>
+    <integer name="circle_original_height">1062</integer>
 </resources>
